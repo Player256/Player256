@@ -2,8 +2,8 @@
 
 ## About Me
 - I'm currently working on ![Job Super Agent](https://github.com/Player256/Job_Super_Agent)
-- I'm currently learning how to build Deep-Learning Models
-- I'm looking to collaborate on hackathons that focus on CV problems
+- I'm currently learning how to build Deep-Learning Models from scratch
+- I'm looking to collaborate on hackathons that focus on CV problems and usage of Vision Language Models.
 
 ## 🔥 Recent GitHub Activity
 <!--START_SECTION:activity-->
