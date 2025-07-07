@@ -1,12 +1,14 @@
 # Hi there, I'm Dattatreya 👋
 
 ## About Me
-- I'm currently working on [🦸‍♂️Job Super Agent](https://github.com/Player256/Job_Super_Agent)
+- I'm currently working on [🦸‍♂️Job Super Agent](https://github.com/Player256/Job_Super_Agent)(Delayed for a bit)
 - I'm currently learning how to build Deep-Learning Models from scratch
 - I'm looking to collaborate on hackathons that focus on CV problems and usage of Vision Language Models.
 
-## 🔥 Recent GitHub Activity
+## 🔥 PRs I am working 
 <!--START_SECTION:activity-->
+ - [OneFormer FastImageProcessor](https://github.com/huggingface/transformers/pull/38343)
+ - [Discord Summarizer tool](https://github.com/huggingface/transformers/pull/38343)
 <!--END_SECTION:activity-->
 
 
