@@ -1,14 +1,13 @@
 # Hi there, I'm Dattatreya 👋
 
 ## About Me
-- I'm currently working on [🦸‍♂️Job Applier Agent](https://github.com/Player256/job_applier)
+- I'm currently working on [AI Text Detection(specifically RAID Benchmark)](https://github.com/Player256/Research-Papers-Implementation/tree/main/ai_text_detection)
 - I'm currently learning how to build Deep-Learning Models from scratch
 - I'm looking to collaborate on hackathons that focus on CV problems and usage of Vision Language Models.
 
 ## 🔥 PRs I am working 
 <!--START_SECTION:activity-->
- - [OneFormer FastImageProcessor](https://github.com/huggingface/transformers/pull/38343)
- - [Discord Summarizer tool](https://github.com/huggingface/transformers/pull/38343)
+ - [DeepseekVLV2 a vision moe in transformers](https://github.com/huggingface/transformers/issues/36111)
 <!--END_SECTION:activity-->
 
 
